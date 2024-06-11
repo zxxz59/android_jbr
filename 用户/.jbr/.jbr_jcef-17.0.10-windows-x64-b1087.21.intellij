@@ -1,0 +1,24 @@
+{
+  "vendor" : "JetBrains",
+  "product" : "Runtime",
+  "flavour" : "JBR with JCEF (bundled by default)",
+  "default" : true,
+  "jdk_version_major" : 233,
+  "jdk_version" : "17.0.10b1087.21",
+  "suggested_sdk_name" : "jbr_jcef-17.0.10-windows-x64-b1087.21",
+  "shared_index_aliases" : [ "jbr-runtime" ],
+  "packages" : [ {
+    "os" : "windows",
+    "arch" : "x86_64",
+    "url" : "https://cache-redirector.jetbrains.com/intellij-jbr/jbr_jcef-17.0.10-windows-x64-b1087.21.tar.gz",
+    "package_type" : "targz",
+    "unpack_prefix_filter" : "jbr_jcef-17.0.10-windows-x64-b1087.21",
+    "package_root_prefix" : "jbr_jcef-17.0.10-windows-x64-b1087.21",
+    "package_to_java_home_prefix" : "",
+    "archive_file_name" : "jbr_jcef-17.0.10-windows-x64-b1087.21.tar.gz",
+    "install_folder_name" : "jbr_jcef-17.0.10-windows-x64-b1087.21",
+    "archive_size" : 195471769,
+    "unpacked_size" : 374711875,
+    "sha256" : "b159318cdbf435958152639ee2b670e28dc5d9d60f9a9bea79a51369e34c52ee"
+  } ]
+}
